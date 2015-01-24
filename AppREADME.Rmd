@@ -1,0 +1,24 @@
+---
+title: "Random Variable Regression App"
+output: html_document
+---
+
+# Random Variable Regression App
+
+### Application
+
+This application provides a graphical output of a simple linear regression between 2 correlated variables. The graphical output provides a display of the data points, the liner regression line and a smoother.
+
+### Accessing the application
+
+The link to the application is:
+
+https://pjlavis.shinyapps.io/DataProducts
+
+### Inputs
+
+The application accepts:
+
+1. Number of simulated data points. A range of 10 to 5000
+2. The correlation of the data. A range of -1 to 1
+
